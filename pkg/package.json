@@ -1,0 +1,16 @@
+{
+  "name": "wasm-rust",
+  "collaborators": [
+    "beecoder <sdweb@ro.ru>"
+  ],
+  "description": null,
+  "version": "0.1.0",
+  "license": null,
+  "repository": null,
+  "files": [
+    "wasm_rust_bg.wasm",
+    "wasm_rust.d.ts"
+  ],
+  "main": "wasm_rust.js",
+  "types": "wasm_rust.d.ts"
+}
